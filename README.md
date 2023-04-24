@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Data Science & Artificial Intelligence<br>Philosophy and Ethics of AI
 
 
